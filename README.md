@@ -1,1 +1,1 @@
-# SDLC-project-1
+# smart-SDLC-AI-enhanced-software-development-life-cycle
